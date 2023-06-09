@@ -7,4 +7,4 @@ docker-compose up -d --build
 
 <hr>
 
-Homepage: ***http://localhost***
+Index: ***http://localhost***
